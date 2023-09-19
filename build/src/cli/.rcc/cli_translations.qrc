@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="i18n/cli">
+    <file alias="en_AU.qm">/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/cli/en_AU.qm</file>
+    <file alias="en_GB.qm">/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/cli/en_GB.qm</file>
+    <file alias="en_US.qm">/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/cli/en_US.qm</file>
+  </qresource>
+</RCC>
+

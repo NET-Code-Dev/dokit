@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/cli-lib_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/cli-lib_autogen.dir/ParseCache.txt"
+  "cli-lib_autogen"
+  "CMakeFiles/cli-lib.dir/abstractcommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/abstractcommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/calibratecommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/calibratecommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/cli-lib_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/cli-lib.dir/cli-lib_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/devicecommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/devicecommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/dsocommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/dsocommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/flashledcommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/flashledcommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/infocommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/infocommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/loggerfetchcommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/loggerfetchcommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/loggerstartcommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/loggerstartcommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/loggerstopcommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/loggerstopcommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/metercommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/metercommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/scancommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/scancommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/setnamecommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/setnamecommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/settorchcommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/settorchcommand.cpp.o.d"
+  "CMakeFiles/cli-lib.dir/statuscommand.cpp.o"
+  "CMakeFiles/cli-lib.dir/statuscommand.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/cli-lib.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

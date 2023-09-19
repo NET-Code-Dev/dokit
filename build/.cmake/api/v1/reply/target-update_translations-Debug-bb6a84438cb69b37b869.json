@@ -1,0 +1,103 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt6_add_lupdate",
+			"qt6_add_translations",
+			"qt_add_translations",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/opt/homebrew/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake",
+			"src/cli/CMakeLists.txt",
+			"src/lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 75,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 389,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 328,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 190,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 192,
+				"parent" : 3
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 50,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 389,
+				"parent" : 7
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 328,
+				"parent" : 8
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 192,
+				"parent" : 9
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "cli_lupdate::@148c4bdfdd3fd6bf8e37"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "QtPokit_lupdate::@dc1a1c76835bc3d8b019"
+		}
+	],
+	"id" : "update_translations::@148c4bdfdd3fd6bf8e37",
+	"name" : "update_translations",
+	"paths" : 
+	{
+		"build" : "src/cli",
+		"source" : "src/cli"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,309 @@
+{
+	"BUILD_DIR" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/lib/QtPokit_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/lib",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib",
+	"CMAKE_EXECUTABLE" : "/opt/homebrew/Cellar/cmake/3.27.5/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/CMakeLists.txt",
+		"/opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit",
+	"DEP_FILE" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/lib/QtPokit_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "QtPokit_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/abstractpokitservice.h",
+			"Mu",
+			"6EPJ3524ZS/moc_abstractpokitservice.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/calibrationservice.h",
+			"Mu",
+			"6EPJ3524ZS/moc_calibrationservice.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/dataloggerservice.h",
+			"Mu",
+			"6EPJ3524ZS/moc_dataloggerservice.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/deviceinfoservice.h",
+			"Mu",
+			"6EPJ3524ZS/moc_deviceinfoservice.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/dsoservice.h",
+			"Mu",
+			"6EPJ3524ZS/moc_dsoservice.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/genericaccessservice.h",
+			"Mu",
+			"6EPJ3524ZS/moc_genericaccessservice.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/multimeterservice.h",
+			"Mu",
+			"6EPJ3524ZS/moc_multimeterservice.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/pokitdevice.h",
+			"Mu",
+			"6EPJ3524ZS/moc_pokitdevice.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/pokitdiscoveryagent.h",
+			"Mu",
+			"6EPJ3524ZS/moc_pokitdiscoveryagent.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/pokitmeter.h",
+			"Mu",
+			"6EPJ3524ZS/moc_pokitmeter.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/pokitpro.h",
+			"Mu",
+			"6EPJ3524ZS/moc_pokitpro.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/pokitproducts.h",
+			"Mu",
+			"6EPJ3524ZS/moc_pokitproducts.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/qtpokit_global.h",
+			"Mu",
+			"6EPJ3524ZS/moc_qtpokit_global.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include/qtpokit/statusservice.h",
+			"Mu",
+			"6EPJ3524ZS/moc_statusservice.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/abstractpokitservice_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_abstractpokitservice_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/calibrationservice_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_calibrationservice_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/dataloggerservice_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_dataloggerservice_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/deviceinfoservice_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_deviceinfoservice_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/dsoservice_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_dsoservice_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/genericaccessservice_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_genericaccessservice_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/multimeterservice_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_multimeterservice_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/pokitdevice_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_pokitdevice_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/pokitdiscoveryagent_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_pokitdiscoveryagent_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/pokitproducts_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_pokitproducts_p.cpp",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/statusservice_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_statusservice_p.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/lib/QtPokit_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/lib/QtPokit_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"PROJECT_NAME=\"Dokit\"",
+		"PROJECT_PRE_RELEASE=\"pre\"",
+		"PROJECT_VERSION=\"0.5.0\"",
+		"QTPOKIT_LIBRARY",
+		"QT_BLUETOOTH_LIB",
+		"QT_CORE_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_CAST_FROM_ASCII",
+		"QT_NO_CAST_TO_ASCII",
+		"QtPokit_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/include",
+		"/opt/homebrew/lib/QtCore.framework/Headers",
+		"/opt/homebrew/lib/QtCore.framework",
+		"/opt/homebrew/share/qt/mkspecs/macx-clang",
+		"/opt/homebrew/include",
+		"/opt/homebrew/lib/QtBluetooth.framework/Headers",
+		"/opt/homebrew/lib/QtBluetooth.framework",
+		"/opt/homebrew/lib/QtNetwork.framework/Headers",
+		"/opt/homebrew/lib/QtNetwork.framework",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-std=c++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/opt/homebrew/Cellar/cmake/3.27.5/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/lib/QtPokit_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/lib/.rcc/qrc_QtPokit_translations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/lib/CMakeFiles/QtPokit_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/build/src/lib/CMakeFiles/QtPokit_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/abstractpokitservice.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/calibrationservice.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/dataloggerservice.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/deviceinfoservice.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/dsoservice.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/genericaccessservice.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/multimeterservice.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/pokitdevice.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/pokitdiscoveryagent.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/pokitmeter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/pokitpro.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/pokitproducts.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/darrell/Library/CloudStorage/Dropbox/repos/Dokit/dokit/src/lib/statusservice.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

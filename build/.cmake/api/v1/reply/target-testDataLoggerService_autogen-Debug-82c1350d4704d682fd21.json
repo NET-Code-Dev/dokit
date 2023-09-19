@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"test/unit/lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "testDataLoggerService_autogen_timestamp_deps::@8be47f7715317cf341f4"
+		}
+	],
+	"id" : "testDataLoggerService_autogen::@8be47f7715317cf341f4",
+	"isGeneratorProvided" : true,
+	"name" : "testDataLoggerService_autogen",
+	"paths" : 
+	{
+		"build" : "test/unit/lib",
+		"source" : "test/unit/lib"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/test/unit/lib/CMakeFiles/testDataLoggerService_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/test/unit/lib/CMakeFiles/testDataLoggerService_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/test/unit/lib/testDataLoggerService_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

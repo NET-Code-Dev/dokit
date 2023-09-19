@@ -1,0 +1,67 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"test/unit/cli/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "cli-lib::@148c4bdfdd3fd6bf8e37"
+		},
+		{
+			"id" : "QtPokit::@dc1a1c76835bc3d8b019"
+		}
+	],
+	"id" : "testLoggerStartCommand_autogen_timestamp_deps::@7ce962255b3414152d05",
+	"isGeneratorProvided" : true,
+	"name" : "testLoggerStartCommand_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "test/unit/cli",
+		"source" : "test/unit/cli"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/test/unit/cli/CMakeFiles/testLoggerStartCommand_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/test/unit/cli/CMakeFiles/testLoggerStartCommand_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

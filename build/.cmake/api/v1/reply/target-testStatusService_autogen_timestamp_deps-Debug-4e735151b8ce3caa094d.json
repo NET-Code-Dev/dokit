@@ -1,0 +1,64 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"test/unit/lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "QtPokit::@dc1a1c76835bc3d8b019"
+		}
+	],
+	"id" : "testStatusService_autogen_timestamp_deps::@8be47f7715317cf341f4",
+	"isGeneratorProvided" : true,
+	"name" : "testStatusService_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "test/unit/lib",
+		"source" : "test/unit/lib"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/test/unit/lib/CMakeFiles/testStatusService_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/test/unit/lib/CMakeFiles/testStatusService_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
